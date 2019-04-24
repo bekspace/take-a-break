@@ -17,4 +17,4 @@ When done:
 
 take-a-break(mate) is an executable file for MATE DE (tested on debian stretch).
 
-Full tutorial may be found [here](https://bekspace.com/posts/20191/take-a-break.html)
+Full tutorial may be found [here](https://bekspace.com/posts/201901/take-a-break.html)
